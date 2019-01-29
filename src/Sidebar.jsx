@@ -12,7 +12,7 @@ class Sidebar extends React.Component
     render()
     {
         return(
-            <Col md="3">
+            <Col sm="3">
                 <Row>
                     <div className="card w-100 rounded-0" id="sidebar">
                         <CardHeader>Menu</CardHeader>
