@@ -9,10 +9,10 @@
   "author": "Dhany Nurdiansyah",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "leaflet": "^1.4.0",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
     "reactstrap": "^8.0.0"
   },
